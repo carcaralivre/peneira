@@ -1,0 +1,21 @@
+{
+  "name": {
+    "pt-BR": "Peneira"
+  },
+  "default_locale": "pt-BR",
+  "summary": {
+    "pt-BR": "Encontra uma aba pelo título ou endereço enquanto você digita. Uma paleta com busca instantânea sobre as abas da janela: ⌘. (Ctrl+.) abre, Enter vai para a aba, ⌘⌫ fecha sem sair da lista."
+  },
+  "description": {
+    "pt-BR": "Extensão para Firefox que encontra uma aba pelo título ou endereço enquanto você digita.\n\n- Clique no ícone da barra, ou ⌘. (Ctrl+. no Windows e Linux): abre uma paleta com um campo de busca e a lista de abas da janela, na mesma ordem da barra de abas.\n- Cada palavra digitada precisa aparecer no título ou no endereço. Maiúsculas e acentos não importam.\n- O endereço é comparado sem https://, sem www. e sem a terminação do domínio (.com, .com.br…), então \"goog\" acha o Google, mas \"com\" não traz tudo.\n- ↑ ↓ navegam, Enter vai para a aba, ⌘⌫ (Ctrl+⌫) ou o × da linha fecham a aba sem sair da lista, Esc limpa a busca e, se já estiver vazia, fecha.\n- O atalho pode ser trocado em about:addons → engrenagem → Gerenciar atalhos de extensões.\n\nNenhum dado sai do navegador."
+  },
+  "categories": [
+    "tabs"
+  ],
+  "homepage": {
+    "pt-BR": "https://github.com/carcaralivre/peneira"
+  },
+  "version": {
+    "license": "MPL-2.0"
+  }
+}
